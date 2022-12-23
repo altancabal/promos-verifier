@@ -14,7 +14,7 @@ CORS(app)
 
 #The Notion database "Promos compartidas" - https://www.notion.so/exploradordeviajes/459497a1b8f9438ebff5034915a943dd?v=8af7c0f4179f47a4b98b91ffa0980c25
 promos_compartidas_database_id = "459497a1-b8f9-438e-bff5-034915a943dd"
-#The Notion database "Ciudades" - 
+#The Notion database "Ciudades" - https://www.notion.so/exploradordeviajes/da4ffb2a4aa04301bbf5bc0d40eff92c?v=7eb6bdb0d61b4c298baf4d44f392a74f
 ciudades_database_id = "da4ffb2a-4aa0-4301-bbf5-bc0d40eff92c"
 gratuitos_and_premium_name = "Gratuitos y Premium"
 prop_last_shared_date_premium = "Premium - Última fecha compartida"
